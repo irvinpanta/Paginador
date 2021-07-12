@@ -5,7 +5,7 @@ Public Class Config
 
     Public Function conectado()
         Try
-            cnn = New SqlConnection("data source =localhost; Initial catalog=SisAvikarDemo; Integrated Security=true")
+            cnn = New SqlConnection("data source =localhost; Initial catalog=nameDatabase; Integrated Security=true")
             cnn.Open()
             Return True
         Catch ex As Exception
