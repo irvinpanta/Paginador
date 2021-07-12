@@ -1,0 +1,33 @@
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\obj\Debug\Paginador.Resources.resources
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\obj\Debug\Paginador.vbproj.GenerateResource.Cache
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\bin\Debug\Paginador.exe.config
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\bin\Debug\Paginador.exe
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\bin\Debug\Paginador.pdb
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\bin\Debug\Paginador.xml
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\obj\Debug\Paginador.exe
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\obj\Debug\Paginador.xml
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\obj\Debug\Paginador.pdb
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\obj\Debug\Paginador.FormPaginacion.resources
+c:\Users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Paginador\obj\Debug\Paginador.PaginacionData.resources
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\bin\Debug\Paginador.exe.config
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\obj\Debug\Paginador.exe
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\obj\Debug\Paginador.xml
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\obj\Debug\Paginador.pdb
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\bin\Debug\Paginador.exe
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\bin\Debug\Paginador.pdb
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\bin\Debug\Paginador.xml
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\obj\Debug\Paginador.FormPaginacion.resources
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\obj\Debug\Paginador.Resources.resources
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\obj\Debug\Paginador.PaginacionData.resources
+C:\Users\SoftPanG.SOFTPANG\Documents\Visual Studio 2013\Projects\ProyectoPaginador\Paginador\obj\Debug\Paginador.vbproj.GenerateResource.Cache
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\bin\Debug\Paginador.exe.config
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\obj\Debug\Paginador.exe
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\obj\Debug\Paginador.xml
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\obj\Debug\Paginador.pdb
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\bin\Debug\Paginador.exe
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\bin\Debug\Paginador.pdb
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\bin\Debug\Paginador.xml
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\obj\Debug\Paginador.FormPaginacion.resources
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\obj\Debug\Paginador.Resources.resources
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\obj\Debug\Paginador.PaginacionData.resources
+C:\Users\SoftPanG.SOFTPANG\Videos\ProyectoPaginador\Paginador\obj\Debug\Paginador.vbproj.GenerateResource.Cache
