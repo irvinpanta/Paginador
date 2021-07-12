@@ -7,7 +7,7 @@ Public Class llenarGrid
     Public Function llenarGrid(xFlag As Integer, xCriterio As String) As DataTable
         Try
             conectado()
-            cmd = New SqlCommand("[paAviProdudctosConsultar]")
+            cmd = New SqlCommand("[paNameProcedure]")
             cmd.CommandType = CommandType.StoredProcedure
             cmd.Connection = cnn
 
