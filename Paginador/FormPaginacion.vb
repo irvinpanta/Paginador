@@ -23,13 +23,6 @@
                 paginacion.Enabled = True 'Habilita el Paginador
                 cboPaginar.Enabled = True 'Habilita el comboBox del Paginador'
 
-                ''Oculta Columnas
-                With dgListado
-                    .Columns(1).Visible = False
-                    .Columns(5).Visible = False
-                    .Columns(6).Visible = False
-                End With
-
             Else
 
                 dgListado.DataSource = Nothing
